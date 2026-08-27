@@ -1,5 +1,5 @@
 ---
-image: ../../assets/artworks/golden-peanut-2kht8s.msg
+image: ../../assets/artworks/golden-peanut-abpfon.jpg
 title: Golden Peanut
 year: 2023
 medium: Charcoal on Paper
