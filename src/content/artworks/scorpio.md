@@ -7,7 +7,7 @@ dimensions: 24 x 30 in
 status: available
 price: "300.00"
 alt: A white scorpion on black background
-order: 0
+order: 2
 featured: false
 ---
 

@@ -7,7 +7,7 @@ dimensions: 24x30
 status: available
 price: "300.00"
 alt: A Pop Art representation of Mr. Spock from the original Star Trek television series
-order: 0
+order: 4
 featured: false
 ---
 

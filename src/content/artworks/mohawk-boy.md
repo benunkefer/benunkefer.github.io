@@ -7,7 +7,7 @@ dimensions: 24" x 30"
 status: available
 price: "300.00"
 alt: A pop image of a boy with a mohawk. The boy is making a funny face.
-order: 0
+order: 1
 featured: false
 ---
 

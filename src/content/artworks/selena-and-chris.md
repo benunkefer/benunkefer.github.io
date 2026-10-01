@@ -6,7 +6,7 @@ medium: Print on paper
 dimensions: 24 x 36
 status: inquire
 alt: Selena and her boyfriend Chris as a popular Mexican image of the Azteca warrior carrying an Aztec princess
-order: 0
+order: 3
 featured: false
 ---
 
