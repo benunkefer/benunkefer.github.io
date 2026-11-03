@@ -83,7 +83,7 @@
       "cardStyle": "card",
       "captionDetail": "minimal",
       "captionOverlay": "surface",
-      "featureFirst": false,
+      "featureFirst": true,
       "adaptiveSpans": false,
       "click": "lightbox",
       "filters": false
