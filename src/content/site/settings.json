@@ -31,7 +31,7 @@
   "design": {
     "preset": "spotlight",
     "color": {
-      "background": "#101010",
+      "background": "#0a0000",
       "surface": "#161616",
       "text": "#f0f0f0",
       "muted": "#8a8a8a",
